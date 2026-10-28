@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pitel\\Downloads\\AccessSystem-WinForms\\AccessSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C53E367-E69A-3BB4-FE4E-8F999F45D7D4}|AccessSystem.csproj|c:\\users\\pitel\\downloads\\accesssystem-winforms\\accesssystem\\assets\\cover photo.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{1C53E367-E69A-3BB4-FE4E-8F999F45D7D4}|AccessSystem.csproj|solutionrelative:assets\\cover photo.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cover photo.jpg",
+              "DocumentMoniker": "C:\\Users\\pitel\\Downloads\\AccessSystem-WinForms\\AccessSystem\\assets\\cover photo.jpg",
+              "RelativeDocumentMoniker": "assets\\cover photo.jpg",
+              "ToolTip": "C:\\Users\\pitel\\Downloads\\AccessSystem-WinForms\\AccessSystem\\assets\\cover photo.jpg",
+              "RelativeToolTip": "assets\\cover photo.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-10-22T05:20:16.067Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

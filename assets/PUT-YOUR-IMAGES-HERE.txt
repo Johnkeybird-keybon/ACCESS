@@ -1,0 +1,4 @@
+Copy your image files into this folder (same names used by the page):
+  cover photo.jpg   (login background)
+  pfp.jpg           (department logo)
+  UCC Logo.png      (university logo)
