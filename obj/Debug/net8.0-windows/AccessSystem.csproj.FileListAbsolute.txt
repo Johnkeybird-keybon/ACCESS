@@ -74,3 +74,4 @@ C:\Codap\AccessSystem-WinForms\AccessSystem\obj\Debug\net8.0-windows\refint\Acce
 C:\Codap\AccessSystem-WinForms\AccessSystem\obj\Debug\net8.0-windows\AccessSystem.pdb
 C:\Codap\AccessSystem-WinForms\AccessSystem\obj\Debug\net8.0-windows\AccessSystem.genruntimeconfig.cache
 C:\Codap\AccessSystem-WinForms\AccessSystem\obj\Debug\net8.0-windows\ref\AccessSystem.dll
+C:\Codap\AccessSystem-WinForms\AccessSystem\obj\Debug\net8.0-windows\AccessSystem.sourcelink.json
